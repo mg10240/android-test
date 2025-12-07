@@ -1,5 +1,9 @@
 ![cryptomator-android](cryptomator-android.png)
 
+```
+./gradlew assembleLiteRelease
+```
+
 [![Mastodon](https://img.shields.io/mastodon/follow/176112?domain=mastodon.online&style=flat)](https://mastodon.online/@cryptomator)
 [![Community](https://img.shields.io/badge/help-Community-orange.svg)](https://community.cryptomator.org)
 [![Documentation](https://img.shields.io/badge/help-Docs-orange.svg)](https://docs.cryptomator.org)
